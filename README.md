@@ -1,4 +1,4 @@
-# AI_Project
+# Automatic Song Aesthetics Evaluation
 AI-Based Music Aesthetic Evaluation
 Project Overview
 
