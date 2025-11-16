@@ -28,7 +28,7 @@ The MFCC linear regression baseline performs the weakest, with high MSE values (
 
 # Wav2Vec2 Models
 
-# Switching to Wav2Vec2 embeddings leads to a major jump in performance. Both Linear Regression and RandomForest cut MSE values nearly in half and achieve strong correlations (LCC ≈ 0.82–0.84). This shows how well pretrained audio representations capture musical and perceptual features.
+ Switching to Wav2Vec2 embeddings leads to a major jump in performance. Both Linear Regression and RandomForest cut MSE values nearly in half and achieve strong correlations (LCC ≈ 0.82–0.84). This shows how well pretrained audio representations capture musical and perceptual features.
 
 # Audiobox Aesthetics Model
 
