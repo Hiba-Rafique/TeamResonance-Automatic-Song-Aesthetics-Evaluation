@@ -1,10 +1,17 @@
 # Automatic Song Aesthetics Evaluation
-AI-Based Music Aesthetic Evaluation
+Team Resonance ICASSP 2026 Submission
 Project Overview
 
 This project focuses on predicting the aesthetic qualities of music using audio embeddings and regression models. The goal is to evaluate multiple musical aspects — coherence, musicality, memorability, clarity, and naturalness — using machine learning models trained on audio features.
 
 The project leverages Wav2Vec2 embeddings, MFCC features, dimensionality reduction, and ensemble regression models to achieve accurate predictions.
+The final model achieved 3rd position on the ICASSP ASAE Leaderboard, beating the baseline in track 2 (fine grained aesthetic dimension prediction) <br> <br>
+<img width="1479" height="755" alt="image" src="https://github.com/user-attachments/assets/9b30bf45-7ded-48b1-ad8c-f2e209f841c0" />
+<br> <br>
+<img width="1893" height="335" alt="image" src="https://github.com/user-attachments/assets/fb4efa23-c258-48fb-bd5a-92e214bb8dc0" />
+
+
+
 
 # Links to notebooks (code history)
 Assignment 1 (EDA) : 
